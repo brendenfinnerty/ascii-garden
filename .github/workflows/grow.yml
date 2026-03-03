@@ -2,8 +2,8 @@ name: Grow Garden
 
 on:
   schedule:
-    - cron: '0 */8 * * *'  # every 8 hours
-  workflow_dispatch:  # manual trigger for testing
+    - cron: '0 */4 * * *'  # every 4 hours (6x/day max, but random skip cuts it down)
+  workflow_dispatch:  # manual trigger always runs
 
 permissions:
   contents: write
@@ -19,10 +19,23 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Grow the garden
-        run: python garden.py
+      - name: Random delay
+        run: sleep $((RANDOM % 1800))  # up to 30 min so commits aren't always on the hour
+
+      - name: Maybe grow the garden
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual trigger -- always growing"
+            python garden.py
+          elif [ $((RANDOM % 2)) -eq 0 ]; then
+            echo "SKIP=true" >> $GITHUB_ENV
+            echo "Skipping this cycle"
+          else
+            python garden.py
+          fi
 
       - name: Commit and push
+        if: env.SKIP != 'true'
         run: |
           git config user.name "garden-bot"
           git config user.email "70029938+brendenfinnerty@users.noreply.github.com"
