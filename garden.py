@@ -30,7 +30,7 @@ PLANTS = {
     },
 }
 
-CRITTERS = ["🦋", "🐛", "🐌", "🐝", "🐞", "🪲"]
+CRITTERS = ["ᘛ", "⌘", "Ƹ", "ȣ", "✦", "∞"]
 
 WEATHER = [
     ("☀️  Clear skies", 0.3),
