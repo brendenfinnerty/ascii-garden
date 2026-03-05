@@ -1,21 +1,27 @@
 name: Grow Garden
+
 on:
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   grow:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
       - name: Random delay
-        run: sleep $((RANDOM % 1800))
+        run: sleep $((RANDOM % 600))
+
       - name: Maybe grow the garden
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
@@ -27,12 +33,13 @@ jobs:
           else
             python garden.py
           fi
+
       - name: Commit and push
         if: env.SKIP != 'true'
         run: |
           git config user.name "garden-bot"
           git config user.email "70029938+brendenfinnerty@users.noreply.github.com"
-          git pull --rebase
           git add README.md garden_state.json
           git commit -m "🌱 Day $(python -c 'import json; print(json.load(open("garden_state.json"))["day"])'): tend the garden"
+          git pull --rebase
           git push
