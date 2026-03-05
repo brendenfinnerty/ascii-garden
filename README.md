@@ -17,7 +17,7 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 │                                          │
 │ .                                        │
 │                                 .        │
-│               🐞                          │
+│               🐞                         │
 │                            .             │
 │                                          │
 │                                          │
