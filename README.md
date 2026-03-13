@@ -2,14 +2,14 @@
 
 A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and existing plants grow.
 
-**Day 24** · ☀️  Clear skies · 50 plants · 41 fully grown
+**Day 25** · 🌈  Rainbow! · 51 plants · 43 fully grown
 
 ```
 ┌──────────────────────────────────────────┐
 │ ○        ✿                          ⌇    │
 │  ⌇                                       │
 │     ♣ ✿           ✿                      │
-│      ,             ⌇        .    ✿       │
+│      |             ⌇        .    ✿       │
 │         ♨ ❋                  ❋           │
 │           ⌇                      ⌇   ✿   │
 │                                          │
@@ -17,9 +17,9 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 │                  ♣    ❋   ✿              │
 │ ⌇       ✿              ✿          ♣  ⌇   │
 │   ✿       ♣        ♨    ✿       ♨        │
-│           ,               φ              │
-│         '     ,    ♣    ✿  ⌇             │
-│    ⌇              ♨      ↑    φ        ✿ │
+│           |               ✿              │
+│         "     |    ♣    ✿  ⌇             │
+│    ⌇              ♨      ↟    ✿       .✿ │
 │           ✿                    ✿         │
 │                  ✿  ♣✿       ♣   ♨    ❋  │
 └──────────────────────────────────────────┘
@@ -30,9 +30,9 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 |------|-------|--------|
 | 🌸 Flower | 22 | `. , | φ ✿` |
 | 🌳 Tree | 8 | `. , ↑ ↟ ♣` |
-| 🌿 Grass | 10 | `. ' " ⌇` |
+| 🌿 Grass | 11 | `. ' " ⌇` |
 | 🍄 Mushroom | 6 | `. ○ ♨` |
 | 🌿 Vine | 4 | `. ~ ≈ ❋` |
 
-*Last tended: 2026-03-12 17:02 UTC*
+*Last tended: 2026-03-13 02:18 UTC*
 *This garden grows automatically via GitHub Actions.*
