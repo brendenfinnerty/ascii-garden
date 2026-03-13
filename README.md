@@ -2,26 +2,26 @@
 
 A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and existing plants grow.
 
-**Day 26** · 🌧  Light rain · 52 plants · 45 fully grown
+**Day 27** · 🌤  Partly cloudy · 55 plants · 49 fully grown
 
 ```
 ┌──────────────────────────────────────────┐
-│ ♨        ✿       .                  ⌇    │
+│ ♨        ✿       ,                  ⌇    │
 │  ⌇                                       │
 │     ♣ ✿           ✿                      │
-│      φ             ⌇        ,    ✿       │
-│         ♨ ❋                  ❋           │
-│           ⌇                   Ƹ  ⌇   ✿   │
+│      ✿             ⌇        |    ✿       │
+│         ♨ ❋                  ❋       .   │
+│           ⌇                      ⌇   ✿   │
 │                                          │
 │                                          │
 │                  ♣    ❋   ✿              │
 │ ⌇       ✿              ✿          ♣  ⌇   │
-│   ✿       ♣        ♨    ✿       ♨        │
-│           φ               ✿              │
-│         ⌇     φ    ♣    ✿  ⌇             │
-│    ⌇              ♨      ♣    ✿       '✿ │
+│   ✿       ♣        ♨    ✿       ♨.       │
+│           ✿               ✿              │
+│         ⌇     ✿    ♣    ✿  ⌇             │
+│    ⌇              ♨      ♣    ✿       "✿ │
 │           ✿                    ✿         │
-│                  ✿  ♣✿       ♣   ♨    ❋  │
+│       .          ✿  ♣✿       ♣   ♨    ❋  │
 └──────────────────────────────────────────┘
 ```
 
@@ -29,10 +29,10 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 | Type | Count | Stages |
 |------|-------|--------|
 | 🌸 Flower | 22 | `. , | φ ✿` |
-| 🌳 Tree | 9 | `. , ↑ ↟ ♣` |
-| 🌿 Grass | 11 | `. ' " ⌇` |
+| 🌳 Tree | 11 | `. , ↑ ↟ ♣` |
+| 🌿 Grass | 12 | `. ' " ⌇` |
 | 🍄 Mushroom | 6 | `. ○ ♨` |
 | 🌿 Vine | 4 | `. ~ ≈ ❋` |
 
-*Last tended: 2026-03-13 08:48 UTC*
+*Last tended: 2026-03-13 16:43 UTC*
 *This garden grows automatically via GitHub Actions.*
