@@ -2,23 +2,23 @@
 
 A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and existing plants grow.
 
-**Day 37** · ☀️  Clear skies · 75 plants · 67 fully grown
+**Day 38** · ☀️  Clear skies · 77 plants · 67 fully grown
 
 ```
 ┌──────────────────────────────────────────┐
-│ ♨        ✿     ✿ ♣                  ⌇    │
-│  ⌇         ↑        '            ✿       │
+│ ♨        ✿     ✿ ♣          .       ⌇    │
+│  ⌇         ↟        "            ✿       │
 │     ♣ ✿           ✿                      │
 │      ✿            ⌇⌇      ♨ ✿    ✿       │
-│         ♨ ❋                  ❋  .    ♣   │
+│         ♨ ❋      .           ❋  ,    ♣   │
 │   |       ⌇                      ⌇   ✿   │
 │   ♨                                ↑     │
 │    ⌇                                     │
 │           ✿      ♣    ❋   ✿              │
 │ ⌇       ✿              ✿      ✿   ♣  ⌇   │
 │   ✿      ⌇♣        ♨    ✿       ♨⌇       │
-│        .  ✿               ✿ ♣            │
-│         ⌇    ↑✿    ♣    ✿  ⌇             │
+│        ,  ✿               ✿ ♣            │
+│         ⌇    ↟✿    ♣    ✿  ⌇             │
 │    ⌇              ♨      ♣    ✿       ⌇✿ │
 │      ,    ✿    ⌇   ♨           ✿         │
 │       ♣          ✿  ♣✿       ♣   ♨    ❋  │
@@ -28,11 +28,11 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 ## Census
 | Type | Count | Stages |
 |------|-------|--------|
-| 🌸 Flower | 29 | `. , | φ ✿` |
+| 🌸 Flower | 31 | `. , | φ ✿` |
 | 🌳 Tree | 16 | `. , ↑ ↟ ♣` |
 | 🌿 Grass | 17 | `. ' " ⌇` |
 | 🍄 Mushroom | 9 | `. ○ ♨` |
 | 🌿 Vine | 4 | `. ~ ≈ ❋` |
 
-*Last tended: 2026-03-16 17:09 UTC*
+*Last tended: 2026-03-16 20:49 UTC*
 *This garden grows automatically via GitHub Actions.*
