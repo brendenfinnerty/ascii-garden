@@ -1,5 +1,5 @@
 {
-  "day": 41,
+  "day": 42,
   "plants": [
     {
       "type": "grass",
@@ -377,7 +377,7 @@
       "type": "tree",
       "x": 11,
       "y": 1,
-      "stage": 4
+      "stage": 5
     },
     {
       "type": "flower",
@@ -419,7 +419,7 @@
       "type": "flower",
       "x": 5,
       "y": 14,
-      "stage": 2
+      "stage": 3
     },
     {
       "type": "tree",
@@ -431,7 +431,7 @@
       "type": "flower",
       "x": 2,
       "y": 5,
-      "stage": 3
+      "stage": 4
     },
     {
       "type": "grass",
@@ -449,25 +449,25 @@
       "type": "tree",
       "x": 32,
       "y": 4,
-      "stage": 4
+      "stage": 5
     },
     {
       "type": "flower",
       "x": 28,
       "y": 0,
-      "stage": 3
+      "stage": 4
     },
     {
       "type": "flower",
       "x": 17,
       "y": 4,
-      "stage": 3
+      "stage": 4
     },
     {
       "type": "grass",
       "x": 0,
       "y": 8,
-      "stage": 2
+      "stage": 3
     },
     {
       "type": "mushroom",
@@ -479,13 +479,13 @@
       "type": "flower",
       "x": 35,
       "y": 5,
-      "stage": 1
+      "stage": 2
     },
     {
       "type": "mushroom",
       "x": 36,
       "y": 11,
-      "stage": 0
+      "stage": 1
     },
     {
       "type": "tree",
@@ -497,21 +497,21 @@
       "type": "mushroom",
       "x": 35,
       "y": 8,
-      "stage": 0
+      "stage": 1
     },
     {
       "type": "grass",
       "x": 6,
       "y": 4,
+      "stage": 1
+    },
+    {
+      "type": "grass",
+      "x": 37,
+      "y": 13,
       "stage": 0
     }
   ],
-  "critters": [
-    {
-      "type": "\u221e",
-      "x": 31,
-      "y": 0
-    }
-  ],
+  "critters": [],
   "history": []
 }
