@@ -1,5 +1,5 @@
 {
-  "day": 172,
+  "day": 173,
   "plants": [
     {
       "type": "grass",
@@ -1697,7 +1697,7 @@
       "type": "flower",
       "x": 12,
       "y": 10,
-      "stage": 3
+      "stage": 4
     },
     {
       "type": "vine",
@@ -1715,7 +1715,7 @@
       "type": "flower",
       "x": 7,
       "y": 14,
-      "stage": 3
+      "stage": 4
     },
     {
       "type": "flower",
@@ -1727,39 +1727,45 @@
       "type": "vine",
       "x": 5,
       "y": 13,
-      "stage": 1
+      "stage": 2
     },
     {
       "type": "flower",
       "x": 7,
       "y": 5,
-      "stage": 0
+      "stage": 1
     },
     {
       "type": "tree",
       "x": 33,
       "y": 6,
-      "stage": 1
+      "stage": 2
     },
     {
       "type": "vine",
       "x": 5,
       "y": 8,
-      "stage": 0
+      "stage": 1
     },
     {
       "type": "flower",
       "x": 5,
       "y": 10,
       "stage": 0
-    }
-  ],
-  "critters": [
+    },
     {
-      "type": "\u2726",
-      "x": 6,
-      "y": 11
+      "type": "tree",
+      "x": 23,
+      "y": 12,
+      "stage": 0
+    },
+    {
+      "type": "flower",
+      "x": 29,
+      "y": 7,
+      "stage": 0
     }
   ],
+  "critters": [],
   "history": []
 }
