@@ -1,5 +1,5 @@
 {
-  "day": 176,
+  "day": 177,
   "plants": [
     {
       "type": "grass",
@@ -1721,7 +1721,7 @@
       "type": "flower",
       "x": 9,
       "y": 12,
-      "stage": 2
+      "stage": 3
     },
     {
       "type": "vine",
@@ -1739,7 +1739,7 @@
       "type": "tree",
       "x": 33,
       "y": 6,
-      "stage": 3
+      "stage": 4
     },
     {
       "type": "vine",
@@ -1751,19 +1751,19 @@
       "type": "flower",
       "x": 5,
       "y": 10,
-      "stage": 2
+      "stage": 3
     },
     {
       "type": "tree",
       "x": 23,
       "y": 12,
-      "stage": 1
+      "stage": 2
     },
     {
       "type": "flower",
       "x": 29,
       "y": 7,
-      "stage": 1
+      "stage": 2
     },
     {
       "type": "vine",
@@ -1775,12 +1775,18 @@
       "type": "vine",
       "x": 19,
       "y": 5,
-      "stage": 1
+      "stage": 2
     },
     {
       "type": "grass",
       "x": 17,
       "y": 9,
+      "stage": 0
+    },
+    {
+      "type": "flower",
+      "x": 4,
+      "y": 1,
       "stage": 0
     }
   ],
