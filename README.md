@@ -2,7 +2,7 @@
 
 A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and existing plants grow.
 
-**Day 187** · 🌤  Partly cloudy · 314 plants · 304 fully grown
+**Day 188** · ☀️  Clear skies · 316 plants · 306 fully grown
 
 ```
 ┌──────────────────────────────────────────┐
@@ -10,17 +10,17 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 │ ♣⌇  ✿ ♨ ⌇  ♣✿ ⌇♣ ✿  ⌇  ❋✿  ⌇     ✿  ⌇✿♨♨ │
 │  ✿❋✿♣♣✿| ⌇ ♣ ♣ ✿ ⌇✿ ♣  ⌇ ✿  ✿❋ ⌇  ✿  ✿   │
 │   ✿  ✿         ✿✿⌇⌇⌇ ✿  ⌇✿♨♣✿  ❋ ✿   ♣✿✿ │
-│ ✿  ⌇  ⌇♨♨♨❋ ♨ ⌇  ✿ ✿ ✿ ✿   ✿ ❋  ♣ ,⌇ ♣ ✿ │
-│   ✿  ⌇✿✿ ✿⌇❋ ,♨♣♨ ⌇❋ φ⌇✿⌇  ≈ ✿   ⌇ ✿✿✿ ♨ │
-│  ♣♨    ❋  ✿✿.♣    ♨   ⌇✿ ♣✿ ❋ ♣ ♣♣,♣  ⌇✿ │
+│ ✿  ⌇  ⌇♨♨♨❋ ♨ ⌇  ✿ ✿ ✿ ✿   ✿ ❋  ♣ |⌇ ♣ ✿ │
+│   ✿  ⌇✿✿ ✿⌇❋ |♨♣♨ ⌇❋ ✿⌇✿⌇  ❋ ✿   ⌇ ✿✿✿ ♨ │
+│  ♣♨    ❋  ✿✿'♣    ♨   ⌇✿ ♣✿ ❋ ♣ ♣♣|♣  ⌇✿ │
 │ ✿ ✿⌇⌇⌇  ✿✿⌇   ♣✿ ♣✿  ⌇   ♣   ✿    .    ✿ │
 │ ⌇   ✿❋ ✿❋ ✿    ♣♨♣ ♣  ❋   ✿ ✿    ✿ ♨⌇ ✿♨ │
 │ ⌇✿     "✿⌇ ✿⌇ ❋ ♣⌇♣ ⌇✿✿✿     ⌇✿ ♣ ♣  ⌇✿  │
 │   ✿ ⌇✿⌇  ⌇♣ ✿♣   ⌇ ♨    ✿  ❋♣⌇♣ ♨⌇♨⌇✿ ♨  │
 │  ⌇ ✿✿  ✿ ♣✿✿ ♣ ♣⌇  ⌇      ✿ ♣ ⌇♣   ♨♨♣⌇  │
 │   ♣ ✿♣ ✿⌇✿♣  ♣✿ ♣♨❋♣  ❋♣✿✿⌇⌇⌇♣ ♣   ✿♣    │
-│    ⌇♨❋♣ ⌇  ⌇ ✿    ♨   ⌇  ♣  ♣ ✿  ⌇ ✿♨⌇⌇✿ │
-│   ♣❋ ✿♣✿  ✿    ⌇   ♨  ♣ ✿   ♣♨❋✿  ⌇ ♨    │
+│    ⌇♨❋♣ ⌇  ⌇ ✿    ♨   ⌇  ♣  ♣ ✿  ⌇.✿♨⌇⌇✿ │
+│   ♣❋ ✿♣✿  ✿    ⌇  ∞♨  ♣ ✿   ♣♨❋✿  ⌇ ♨  . │
 │ ♣ ♣  ✿♣ ❋⌇  ♣   ♨✿✿ ♣✿⌇♣✿   ✿♣❋ ♣♨  ❋♣❋  │
 └──────────────────────────────────────────┘
 ```
@@ -28,11 +28,11 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 ## Census
 | Type | Count | Stages |
 |------|-------|--------|
-| 🌸 Flower | 117 | `. , | φ ✿` |
+| 🌸 Flower | 118 | `. , | φ ✿` |
 | 🌳 Tree | 67 | `. , ↑ ↟ ♣` |
-| 🌿 Grass | 73 | `. ' " ⌇` |
+| 🌿 Grass | 74 | `. ' " ⌇` |
 | 🍄 Mushroom | 32 | `. ○ ♨` |
 | 🌿 Vine | 25 | `. ~ ≈ ❋` |
 
-*Last tended: 2026-05-03 03:32 UTC*
+*Last tended: 2026-05-04 06:47 UTC*
 *This garden grows automatically via GitHub Actions.*
