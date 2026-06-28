@@ -1,5 +1,5 @@
 {
-  "day": 343,
+  "day": 344,
   "plants": [
     {
       "type": "grass",
@@ -2801,13 +2801,13 @@
       "type": "tree",
       "x": 30,
       "y": 12,
-      "stage": 4
+      "stage": 5
     },
     {
       "type": "grass",
       "x": 22,
       "y": 3,
-      "stage": 2
+      "stage": 3
     },
     {
       "type": "grass",
@@ -2825,15 +2825,27 @@
       "type": "grass",
       "x": 32,
       "y": 14,
-      "stage": 0
+      "stage": 1
     },
     {
       "type": "grass",
       "x": 39,
       "y": 9,
+      "stage": 1
+    },
+    {
+      "type": "mushroom",
+      "x": 3,
+      "y": 12,
       "stage": 0
     }
   ],
-  "critters": [],
+  "critters": [
+    {
+      "type": "\u161b",
+      "x": 3,
+      "y": 0
+    }
+  ],
   "history": []
 }
