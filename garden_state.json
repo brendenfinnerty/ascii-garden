@@ -1,5 +1,5 @@
 {
-  "day": 370,
+  "day": 371,
   "plants": [
     {
       "type": "grass",
@@ -2957,7 +2957,7 @@
       "type": "flower",
       "x": 33,
       "y": 7,
-      "stage": 3
+      "stage": 4
     },
     {
       "type": "flower",
@@ -2993,13 +2993,19 @@
       "type": "tree",
       "x": 25,
       "y": 9,
+      "stage": 1
+    },
+    {
+      "type": "flower",
+      "x": 9,
+      "y": 13,
       "stage": 0
     }
   ],
   "critters": [
     {
       "type": "\u161b",
-      "x": 0,
+      "x": 12,
       "y": 13
     }
   ],
