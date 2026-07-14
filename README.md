@@ -2,7 +2,7 @@
 
 A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and existing plants grow.
 
-**Day 390** · 🌧  Light rain · 519 plants · 514 fully grown
+**Day 391** · ☀️  Clear skies · 520 plants · 515 fully grown
 
 ```
 ┌──────────────────────────────────────────┐
@@ -17,11 +17,11 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 │ ⌇❋♣⌇✿❋ ✿❋ ✿ ♨  ♣♨♣♣♣  ❋  "✿❋✿✿♨⌇ ✿ ♨⌇ ✿♨ │
 │ ⌇✿  ❋✿ ⌇✿⌇ ✿⌇⌇❋✿♣⌇♣✿⌇✿✿✿ ♣ ♨⌇⌇✿ ♣✿♣ ✿⌇✿⌇ │
 │ ❋✿✿❋⌇✿⌇✿ ⌇♣⌇✿♣♣  ⌇♣♨⌇⌇  ✿✿⌇❋♣⌇♣✿♨⌇♨⌇✿ ♨♨ │
-│  ⌇ ✿✿⌇ ✿♨♣✿✿ ♣✿♣⌇✿❋⌇~⌇ ⌇ ✿✿✿♣✿⌇♣♨⌇⌇♨♨♣⌇  │
+│  ⌇ ✿✿⌇ ✿♨♣✿✿ ♣✿♣⌇✿❋⌇≈⌇ ⌇ ✿✿✿♣✿⌇♣♨⌇⌇♨♨♣⌇  │
 │ ♨⌇♣♨✿♣❋✿⌇✿♣⌇✿♣✿✿♣♨❋♣✿ ❋♣✿✿⌇⌇⌇♣♣♣✿⌇ ✿♣✿✿❋ │
 │  ♨⌇⌇♨❋♣♨⌇✿ ⌇ ✿♣ ♨✿♨✿♣ ⌇ ⌇♣⌇ ♣ ✿♣♣⌇⌇✿♨⌇⌇✿ │
-│ ✿⌇♣❋ ✿♣✿ ♣✿♣♣  ⌇ ✿✿♨✿⌇♣♨✿♣.♣♣♨❋✿⌇✿⌇✿♨✿✿✿ │
-│ ♣ ♣ ♨✿♣⌇❋⌇ ✿♣✿  ♨✿✿♨♣✿⌇♣✿♨✿♣✿♣❋⌇♣♨✿⌇❋♣❋  │
+│ ✿⌇♣❋ ✿♣✿ ♣✿♣♣  ⌇ ✿✿♨✿⌇♣♨✿♣,♣♣♨❋✿⌇✿⌇✿♨✿✿✿ │
+│ ♣ ♣.♨✿♣⌇❋⌇ ✿♣✿  ♨✿✿♨♣✿⌇♣✿♨✿♣✿♣❋⌇♣♨✿⌇❋♣❋  │
 └──────────────────────────────────────────┘
 ```
 
@@ -29,10 +29,10 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 | Type | Count | Stages |
 |------|-------|--------|
 | 🌸 Flower | 194 | `. , | φ ✿` |
-| 🌳 Tree | 103 | `. , ↑ ↟ ♣` |
+| 🌳 Tree | 104 | `. , ↑ ↟ ♣` |
 | 🌿 Grass | 131 | `. ' " ⌇` |
 | 🍄 Mushroom | 50 | `. ○ ♨` |
 | 🌿 Vine | 41 | `. ~ ≈ ❋` |
 
-*Last tended: 2026-07-14 13:45 UTC*
+*Last tended: 2026-07-14 21:09 UTC*
 *This garden grows automatically via GitHub Actions.*
