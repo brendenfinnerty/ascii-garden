@@ -2,7 +2,7 @@
 
 A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and existing plants grow.
 
-**Day 664** · ☁️  Overcast · 640 plants · 640 fully grown
+**Day 665** · 🌧  Light rain · 640 plants · 640 fully grown
 
 ```
 ┌──────────────────────────────────────────┐
@@ -34,5 +34,5 @@ A self-growing garden, tended by a bot. Every 8 hours, new seeds are planted and
 | 🍄 Mushroom | 60 | `. ○ ♨` |
 | 🌿 Vine | 57 | `. ~ ≈ ❋` |
 
-*Last tended: 2026-11-11 15:58 UTC*
+*Last tended: 2026-11-12 16:44 UTC*
 *This garden grows automatically via GitHub Actions.*
